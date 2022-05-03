@@ -10,6 +10,7 @@ def parse_v1(vstr1):
     """
     return int(vstr1)
 
+
 def parse_v2(vstr1):
     """
     The second iteration
@@ -21,6 +22,7 @@ def parse_v2(vstr1):
     """
     return vstr1
 
+
 def parse_v3(vstr1):
     """
     The third iteration
@@ -28,4 +30,4 @@ def parse_v3(vstr1):
     This is the VSign NJMono uses, it works in the same way the NFy VSign does.
     
     """
-    return int(vstr1[vstr1.find(".")+1:])
+    return int(vstr1[vstr1.find(".") + 1:])
