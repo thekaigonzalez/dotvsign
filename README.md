@@ -1,4 +1,6 @@
-![Vsign logo](./vsign.jpg)
+<p align="center">
+  <img src="./vsign.jpg" />
+</p>
 
 # .vsign
 
